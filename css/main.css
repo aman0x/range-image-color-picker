@@ -1,0 +1,34 @@
+header{
+	 background: #000 none repeat scroll 0 0;
+    color: #fff;
+    line-height: 45px;
+    padding: 0 10px;
+ }
+p.rgba {
+		background:white;
+		color:black;
+		border:1px solid red;
+		min-height:20px;
+	}
+.cont
+{
+	border: 1px solid #ddd;
+    line-height: 20px;
+    width: 420px !important;
+	padding: 10px;
+}
+.container.cont > div > label {
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+div.print{
+	text-align: center;
+}
+div.print a{
+	font-size: 14px
+	}	
+#errmsg
+{
+color: red;
+}	
